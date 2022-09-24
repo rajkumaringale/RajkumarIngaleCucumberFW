@@ -1,0 +1,2 @@
+cd C:\Acceleration\OctWorkSpace\Automation_Practice_CucumberProject
+mvn test
